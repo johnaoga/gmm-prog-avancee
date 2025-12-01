@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'PYR'
+project = 'PA'
 copyright = '2024, John Aoga'
 author = 'John Aoga'
 
